@@ -1,0 +1,1 @@
+include "mapinfo/32IN24-4.txt" // 32in24-4.wad

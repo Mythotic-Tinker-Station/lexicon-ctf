@@ -1,6 +1,6 @@
 @echo off
 
-set FileName=Lexicon-Deathmatch
+set FileName=Lexicon-CTF
 
 echo 1. Compile ACS
 echo 2. Pack
@@ -10,7 +10,7 @@ set /p choice=Enter your choice (1-3):
 
 if %choice%==1 (
     echo Step 1: ACS
-    compiler\bcc.exe -acc-stats -acc-err-file -x bcs pk3\acs\lexdthm.acs pk3\acs\lexdthm.o
+    compiler\bcc.exe -acc-stats -acc-err-file -x bcs pk3\acs\lexctf.acs pk3\acs\lexctf.o
     if not exist pk3\acs\acs.err goto 20
     del pk3\acs\acs.err
     pause
@@ -30,7 +30,7 @@ if %choice%==2 (
 
 if %choice%==3 (
     echo Step 1: ACS
-    compiler\bcc.exe -acc-stats -acc-err-file -x bcs pk3\acs\lexdthm.acs pk3\acs\lexdthm.o
+    compiler\bcc.exe -acc-stats -acc-err-file -x bcs pk3\acs\lexctf.acs pk3\acs\lexctf.o
     if not exist pk3\acs\acs.err goto 20
     del pk3\acs\acs.err
 

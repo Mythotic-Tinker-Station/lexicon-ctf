@@ -1,0 +1,4 @@
+// 32in24 IV: CAPTURE THE FAG
+texture YD040111 range YD040113 tics 8
+flat YD040017 range YD040020 tics 8
+

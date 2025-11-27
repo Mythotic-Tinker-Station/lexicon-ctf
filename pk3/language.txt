@@ -1,0 +1,14 @@
+[default]
+LEX_CPTF_PACKNAME = "CTF (Doom 2)";
+LEX_CPTF_GAMETYPE = "CTF";
+
+LEX_CPTF_1 = "YD04";
+
+// Custom actors and metadata for Lexicon CTF mapsets
+// 32in24 IV: CAPTURE THE FAG
+YD04_MAPSET_AUTHORS = "YEOD Team";
+YD04_MAPSET_CUSTOM = "N";
+YD04_MAPSET_DATE = "2007";
+YD04_MAPSET_MAPS = "32";
+YD04_MAPSET_TITLE = "32in24 IV";
+YD04_MAPSET_PACK = "CPTF";
