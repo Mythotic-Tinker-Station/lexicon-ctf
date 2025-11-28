@@ -18,3 +18,19 @@ switch YD070260 on pic YD070273 tics 0
 switch YD070261 on pic YD070274 tics 0
 switch YD070263 on pic YD070276 tics 0
 switch YD070307 on pic YD070311 tics 0
+
+// 32in24-12: IRON MAPPER
+texture YD120180 range YD120183 tics 8
+texture YD120202 range YD120205 tics 8
+texture YD120208 range YD120209 tics 8
+texture YD120210 range YD120212 tics 8 allowdecals
+texture YD120265 range YD120268 tics 8 allowdecals
+texture YD120272 range YD120275 tics 8
+flat YD120006 range YD120009 tics 8
+flat YD120010 range YD120012 tics 8
+flat YD120065 range YD120068 tics 8
+switch YD120226 on pic YD120238 tics 0
+switch YD120229 on pic YD120242 tics 0
+switch YD120232 on pic YD120245 tics 0
+switch YD120234 on pic YD120247 tics 0
+switch YD120264 on pic YD120241 tics 0

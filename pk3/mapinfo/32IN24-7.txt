@@ -1,11 +1,5 @@
 // 32in24 IV: CAPTURE THE FAG Mapinfo
 
-defaultmap
-{
-	nojump
-	nocrouch
-}
-
 map YD0701 "Fear and Loathing in Dwango5"
 {
 	titlepatch = "YD07V00"

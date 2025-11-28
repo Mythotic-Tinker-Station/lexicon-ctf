@@ -1,11 +1,5 @@
 // 32in24 IV: CAPTURE THE FAG Mapinfo
 
-defaultmap
-{
-	nojump
-	nocrouch
-}
-
 map YD0401 "Deliverance"
 {
 	titlepatch = "CWILV00"
