@@ -2,3 +2,19 @@
 texture YD040111 range YD040113 tics 8
 flat YD040017 range YD040020 tics 8
 
+// 32in24 7: Return of the Night of Capture the Flag
+texture YD070244 range YD070245 tics 8
+texture YD070316 range YD070319 tics 8 allowdecals
+texture YD070343 range YD070346 tics 8
+texture YD071106 range YD071107 tics 8
+texture YD071108 range YD071109 tics 8
+flat YD070001 range YD070004 tics 8
+flat YD070005 range YD070008 tics 8
+flat YD070084 range YD070087 tics 8
+switch YD070257 on pic YD070269 tics 0
+switch YD070258 on pic YD070271 tics 0
+switch YD070259 on pic YD070272 tics 0
+switch YD070260 on pic YD070273 tics 0
+switch YD070261 on pic YD070274 tics 0
+switch YD070263 on pic YD070276 tics 0
+switch YD070307 on pic YD070311 tics 0

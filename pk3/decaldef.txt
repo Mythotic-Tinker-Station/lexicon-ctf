@@ -1,0 +1,2 @@
+// 32in24 7: Return of the Night of Capture the Flag
+generator Lexicon_YD07_Pistol	BulletChip
