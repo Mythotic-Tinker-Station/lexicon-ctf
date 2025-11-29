@@ -4,6 +4,7 @@ LEX_CPTF_GAMETYPE = "CTF";
 
 LEX_CPTF_1 = "YD04";
 LEX_CPTF_2 = "YD07";
+LEX_CPTF_3 = "BKRS";
 
 // Custom actors and metadata for Lexicon CTF mapsets
 // 32in24 IV: CAPTURE THE FAG
@@ -33,3 +34,23 @@ YD12_MAPSET_DATE = "2012";
 YD12_MAPSET_MAPS = "37";
 YD12_MAPSET_TITLE = "32in24 12";
 YD12_MAPSET_PACK = "CPTF";
+
+// Black Rose CTF
+BKRS_ACTOR_1 = "Lexicon_BKRS_SuperShotgun";
+BKRS_ACTORALT_1 = "SuperShotgun";
+BKRS_ACTOR_2 = "Lexicon_BKRS_Chaingun";
+BKRS_ACTORALT_2 = "Chaingun";
+BKRS_ACTOR_3 = "Lexicon_BKRS_PlasmaRifle";
+BKRS_ACTORALT_3 = "PlasmaRifle";
+BKRS_ACTOR_4 = "Lexicon_BKRS_Shell";
+BKRS_ACTORALT_4 = "Shell";
+BKRS_MAPSET_AUTHORS = "Mike12, Dr33v3r, Piz (Salty), Harrison, 999Cop, Zack, RestlessRodent, fixes by an anonymous author";
+BKRS_MAPSET_CUSTOM = "Y";
+BKRS_MAPSET_DATE = "2007";
+BKRS_MAPSET_MAPS = "20";
+BKRS_MAPSET_TITLE = "Black Rose";
+BKRS_MAPSET_PACK = "CPTF";
+BKRS_WEAPON_2 = "Lexicon_BKRS_Pistol";
+BKRS_WEAPON_5 = "Lexicon_BKRS_SuperShotgun";
+BKRS_WEAPON_6 = "Lexicon_BKRS_Chaingun";
+BKRS_WEAPON_8 = "Lexicon_BKRS_PlasmaRifle";
