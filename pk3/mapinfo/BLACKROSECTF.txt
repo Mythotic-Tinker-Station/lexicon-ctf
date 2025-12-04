@@ -1,5 +1,10 @@
 // Black Rose CTF Mapinfo
 
+defaultmap
+{
+	nocrouch
+}
+
 map BKRS01 "Two Roses' War"
 {
 	next = "BKRS02"

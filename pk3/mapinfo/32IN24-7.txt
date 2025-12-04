@@ -1,4 +1,9 @@
-// 32in24 IV: CAPTURE THE FAG Mapinfo
+// 32in24 7: Return of the Night of Capture the Flag Mapinfo
+
+defaultmap
+{
+	nocrouch
+}
 
 map YD0701 "Fear and Loathing in Dwango5"
 {

@@ -1,5 +1,10 @@
 // 32in24-12: IRON MAPPER Mapinfo
 
+defaultmap
+{
+	nocrouch
+}
+
 map YD1201 "This Aggression Will Not Stand, Man"
 {
 	titlepatch = "YD12V00"

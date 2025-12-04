@@ -4,7 +4,10 @@ LEX_CPTF_GAMETYPE = "CTF";
 
 LEX_CPTF_1 = "YD04";
 LEX_CPTF_2 = "YD07";
-LEX_CPTF_3 = "BKRS";
+LEX_CPTF_3 = "YD12";
+LEX_CPTF_4 = "YD16";
+LEX_CPTF_5 = "BKRS";
+LEX_CPTF_6 = "OCTF";
 
 // Custom actors and metadata for Lexicon CTF mapsets
 // 32in24 IV: CAPTURE THE FAG
@@ -35,6 +38,14 @@ YD12_MAPSET_MAPS = "37";
 YD12_MAPSET_TITLE = "32in24 12";
 YD12_MAPSET_PACK = "CPTF";
 
+// 32in24-16: DOOT CTF
+YD16_MAPSET_AUTHORS = "YEDS Team";
+YD16_MAPSET_CUSTOM = "N";
+YD16_MAPSET_DATE = "2017";
+YD16_MAPSET_MAPS = "34";
+YD16_MAPSET_TITLE = "32in24 16";
+YD16_MAPSET_PACK = "CPTF";
+
 // Black Rose CTF
 BKRS_ACTOR_1 = "Lexicon_BKRS_SuperShotgun";
 BKRS_ACTORALT_1 = "SuperShotgun";
@@ -54,3 +65,11 @@ BKRS_WEAPON_2 = "Lexicon_BKRS_Pistol";
 BKRS_WEAPON_5 = "Lexicon_BKRS_SuperShotgun";
 BKRS_WEAPON_6 = "Lexicon_BKRS_Chaingun";
 BKRS_WEAPON_8 = "Lexicon_BKRS_PlasmaRifle";
+
+// Odamex CTF
+OCTF_MAPSET_AUTHORS = "LexiMax, Ralphis, Agent Spork, deathz0r, Toke";
+OCTF_MAPSET_CUSTOM = "N";
+OCTF_MAPSET_DATE = "2007";
+OCTF_MAPSET_MAPS = "8";
+OCTF_MAPSET_TITLE = "Odamex CTF";
+OCTF_MAPSET_PACK = "CPTF";
